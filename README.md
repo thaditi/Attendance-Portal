@@ -18,4 +18,4 @@ Adding New Teacher
 
 Adding Attendance
 
-<img src="ScreenShot/2.png" width="1000px">
+<img src="ScreenShot/2.png" width="850px">
