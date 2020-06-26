@@ -6,16 +6,16 @@ Created a Basic Attendance Portal using ASP.Net. Contains some preadded database
 
 For Selecting The Class
 
-<img src="ScreenShot/1.png" width="850px">
+<img src="ScreenShot/1.png" width="1000px">
 
 Selecting Teacher
 
-<img src="ScreenShot/4.png" width="850px">
+<img src="ScreenShot/4.png" width="1000px">
 
 Adding New Teacher
 
-<img src="ScreenShot/3.png" width="850px">
+<img src="ScreenShot/3.png" width="1000px">
 
 Adding Attendance
 
-<img src="ScreenShot/2.png" width="850px">
+<img src="ScreenShot/2.png" width="1000px">
