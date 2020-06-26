@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[Id] VARCHAR(50) NOT NULL PRIMARY KEY, 
+    [studentName] VARCHAR(50) NOT NULL, 
+    [fatherName] VARCHAR(50) NOT NULL,
+    [rollNumber] INT NOT NULL,
+
+)

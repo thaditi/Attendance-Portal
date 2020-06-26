@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Class]
+(
+	[Id] INT NOT NULL IDENTITY (1, 1) PRIMARY KEY, 
+    [value] VARCHAR(50) NOT NULL, 
+    [className] VARCHAR(50) NOT NULL
+)
